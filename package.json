@@ -16,6 +16,6 @@
     "momentjs": "^2.0.0",
     "morgan": "~1.9.1",
     "nodemon": "^3.0.1",
-    "oracledb": "^6.0.3"
+    "oracledb": "^5.5.0"
   }
 }
